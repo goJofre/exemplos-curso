@@ -1,2 +1,2 @@
 # exemplos-curso
-Exemplos de projetos para o curso de Java
+Exemplos de projetos para o curso de Java.
